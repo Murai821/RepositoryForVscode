@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define NUM_POINTS 10
+#define NUM_POINTS 20
 #define MAX_COORD 100
 
 int main()
